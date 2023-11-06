@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Countdown Timer</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>One Deep Breath Is Worth 5 Minutes on Instagram</h1>
+        <div class="timers">
+            <!-- Updated class names to "bubble-button" -->
+            <button class="bubble-button" onclick="startTimer(60)">1 Minute Timer</button>
+            <button class="bubble-button" onclick="startTimer(300)">5 Minute Timer</button>
+            <button class="bubble-button" onclick="startTimer(600)">10 Minute Timer</button>
+        </div>
+        <div id="countdownDisplay"></div>
+    </div>    
+<script src="script.js"></script>
+</body>
+</html>
