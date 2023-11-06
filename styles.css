@@ -2,7 +2,7 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url('Cloud_Background'); /* Replace with your image path */
+    background-image: url('Cloud_Background.png'); /* Replace with your image path */
     background-size: cover;
 }
 
