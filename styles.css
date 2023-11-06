@@ -2,7 +2,7 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url('DALL·E 2023-11-06 16.09.35 - Design a serene and uncluttered background for a web app 'instabreath.cloud' with no buttons or text. The image should feature a clear sky with soft w.png'); /* Replace with your image path */
+    background-image: url('Cloud_Background'); /* Replace with your image path */
     background-size: cover;
 }
 
